@@ -1,3 +1,5 @@
+print("starting") 
+from os import*
 os.system("pkg update")
             os.system("pkg install -y git")
             os.system("pkg install -y python")
